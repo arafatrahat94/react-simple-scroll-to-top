@@ -1,7 +1,7 @@
 {
   "name": "react-simple-scroll-to-top",
-  "version": "1.0.0",
-  "description": "A very simple npm package for react,offering smooth, ReactScrollToTop feature ",
+  "version": "1.0.1",
+  "description": "A very simple npm package for react,offering smooth, react-simple-scroll-to-top feature ",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {
@@ -53,9 +53,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/arafatrahat94/ReactScrollToTop"
+    "url": "https://github.com/arafatrahat94/react-simple-scroll-to-top"
   },
-  "homepage": "https://github.com/arafatrahat94/ReactScrollToTop",
+  "homepage": "https://github.com/arafatrahat94/react-simple-scroll-to-top",
   "keywords": [
     "react scroll to top",
     "scroll to top react js",

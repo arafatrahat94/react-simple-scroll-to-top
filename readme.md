@@ -56,15 +56,7 @@ You can customize the react-simple-scroll-to-top button's appearance using the f
 | `bottom`                 | Set the `number value` to position the bottom part of the page where you want to see the button. | `20`              |
 | `right`                  | Set the `number value` to position the right part of the page where you want to see the button.  | `20`              |
 
-To match the example section with the structure provided in the documentation, I'll modify the **Example** section accordingly to fit the flow, style, and customization of `react-simple-scroll-to-top` while maintaining consistency with the rest of the documentation.
-
-Here’s the updated part of the README for the **Example Usage**:
-
-### Updated Example Usage Section:
-
-### Example
-
-Here’s an example of how to use the `react-simple-scroll-to-top` component with custom styling options:
+### Example Usage
 
 ```javascript
 import React from "react";
@@ -124,7 +116,11 @@ If you are facing any problem, feel free to share [here](https://github.com/araf
 ## Changelog
 
 ```markdown
-### [1.0.0] - 2024-10-19
+### [1.0.1] - 2024-11-11
+
+- Updated Readme
+
+### [1.0.0] - 2024-11-10
 
 - Initial release of `react-simple-scroll-to-top`.
 - Added `SimpleScrollToTop` button style.
