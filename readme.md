@@ -1,4 +1,4 @@
-# ReactCoolCursors
+# React-simple-scroll-to-top
 
 ![Version](https://img.shields.io/npm/v/react-simple-scroll-to-top.svg)
 
